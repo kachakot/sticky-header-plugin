@@ -1,0 +1,13 @@
+{
+  "name": "jquery-plugin-template",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Pagepro <pagepro@pagepro.pl>",
+  "devDependencies": {
+    "browser-sync": "^2.7.13",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-eslint": "^0.15.0",
+    "gulp-sass": "^2.0.3"
+  }
+}
